@@ -12,11 +12,6 @@
   color: var(--text-02);
 }
 
-.contact {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: -20px;
-}
 
 .contact__address {
   font-family: var(--text-font);
@@ -25,6 +20,9 @@
   font-size: 13px;
   line-height: 20px;
   color: var(--text-02);
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
 }
 
 .line{
